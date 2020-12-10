@@ -1,0 +1,383 @@
+body {
+	font-family:			Arial, Times;
+	margin-right:			20px;
+	margin-left:			220px;
+	margin-bottom:			20px;
+	background-color:  #E9E9DB;
+	background-repeat:		no-repeat;
+	background-attachment:	fixed;
+	background-position:	bottom;
+	
+}
+
+
+
+#subBody
+{
+margin-left:0px;
+float: 		left;
+margin-top:-5px;
+background-color:  #FFFFFF;
+width: 1100px;
+
+}
+
+
+#header {
+	width: 					1100px ;
+	padding-top :200px;
+	border-bottom: 			solid 2px #91c091;
+}
+#menu {
+	height:50px;
+	background-color:#461177;
+	width: 	1100px;
+	background: -moz-radial-gradient;
+}
+#menuTable
+{
+	margin-top:-20px;
+	height:50px;
+
+}
+
+
+
+h1 {
+	font-size:				18pt;
+	color:					#70ad70;
+}
+h1 .subtitle {
+    font-size:              14pt;
+    color:                  #461177;
+	font-style: italic;
+}
+
+#positionTitle {
+margin-right:100 px;
+margin-top:-200px;
+color:#461177;
+
+
+
+}
+
+h2 {
+	font-size:				14pt;
+	text-align:				center;
+	background-image:		url(../img/losangevert.png);
+	background-repeat:		no-repeat;
+	background-position:	center;
+	color:					white;
+}
+
+h2.subtitle {
+	font-size:				14pt;
+	text-transform:			none;
+	text-align:				center;
+	text-decoration:		underline;
+	background-image:		none;
+	color:					#70ad70;
+}
+
+h3 {
+	font-size:				13pt;
+	font-variant:			small-caps;
+	text-align:				left;
+	color:					#70ad70;
+	border-bottom: 			dashed 1px #91c091;
+}
+
+h4 {
+	font-size:				12pt;
+	font-style:				italic;
+}
+
+p, li, ol {
+	text-align:				justify;
+}
+
+p {
+	color:					black;
+}
+
+td {
+	vertical-align:			top;
+	padding: 				5px;
+
+	}
+	
+
+	
+li, ol {
+	color:					#70ad70;
+}
+
+#cvTools {
+	position:				absolute;
+	top:					110px;
+	right:					10px;
+	visibility: 			visible;
+    text-align:				right ;
+    font-size: 				10pt ;
+}
+
+td.menuCell {
+	text-align: 			center;
+	vertical-align:			middle;
+	height: 				10px ;
+	background-position:	center;
+	width:17%;
+}
+
+a, a:hover, a:visited {
+	color:					#006600;
+}
+
+img {
+	border:					0px;
+}
+
+em {
+	font-weight:			bold;
+	font-style:				normal;
+}
+
+
+#content
+{
+margin-left:20px;
+margin-right:20px;
+}
+
+
+#ContentTitle
+{
+Z-Index: 10;
+margin-left:10px;
+color:#FBFBEF;
+position:relative;
+
+
+}
+
+#logoBlida{
+	margin-right:30px;
+	float:right;
+	margin-top: -42px;
+	width: 60px;
+}
+
+
+#logoThomson{
+	margin-right:20px;
+	float:right;
+	margin-top: -80px;
+	width: 131px;
+}
+
+
+#logoCnrs{
+	margin-right:20px;
+	float:right;
+	margin-top: -102px;
+	width: 70px;
+}
+
+#logoUcbl{
+	margin-right:10px;
+	float:right;
+	margin-top: -142px;
+	width: 120px;
+}
+
+#logoIsh{
+	margin-right:10px;
+	float:right;
+	margin-top: -142px;
+	width: 120px;
+}
+
+#logoPressInnov{
+
+	margin-right:10px;
+	float:right;
+	margin-top: -102px;
+	width: 200px;
+}
+
+
+
+#logoUstl{
+	margin-right:0px;
+	float:right;
+	margin-top: -104px;
+	width: 142px;
+}
+
+#logoRennes1{
+	margin-right:0px;
+	float:right;
+	margin-top: -104px;
+	width: 162px;
+}
+
+
+
+
+#myphoto{
+	margin-right:0px;
+	float:right;
+	margin-top: -64px;
+	width: 225px;
+	
+}
+
+
+#phone
+{
+margin-top: 15px;
+}
+
+
+
+#phoneIcon{
+
+	margin-left:10px;
+	float:left;
+	margin-top:  10px;
+	width:	30px;
+
+}
+
+#addressIcon{
+
+	margin-left:10px;
+	margin-top:  -40px;
+	width:	32px;
+
+}
+
+
+
+#address{
+margin-left:35px;
+margin-top:  -30px;
+
+}
+
+
+
+#mailIcon{
+	margin-left:13px;
+	float:left;
+	margin-top:  -45px;
+	width:	24px;
+
+}
+
+#myEmail{
+	margin-left:63px;
+	float:left;
+	margin-top:  -61px;
+	width:	200px;
+
+}
+
+#linkedin{
+	margin-left:13px;
+	float:left;
+	margin-top:  -41px;
+	width:	30px;
+
+}
+
+
+
+#lcc-logo{
+	float:	left;
+	margin-top:  10px;
+	margin-right: -20px;
+	margin-bottom:   20px;
+}
+
+
+a.menuLabel, a.menuLabelSelected {
+	font-size:				16pt ;
+	text-decoration:		none ;
+}
+a.menuLabel, a.menuLabel:visited {
+	color:					white ;
+}
+a.menuLabelSelected, a.menuLabelSelected:visited {
+	color:					#006600 ;
+}
+a.menuLabel:hover, a.menuLabelSelected:hover {
+	text-decoration:		underline;
+}
+a.moreinfo {
+	font-size:				8pt;
+	text-decoration:		none;
+}
+
+p.upperLinks {
+	font-size:				10pt;
+	text-align:				center;
+}
+
+.itemDate, .itemTitle {
+	font-weight:			bold;
+}
+.itemDate {
+	text-align:				right;
+}
+.location  {
+	font-style:				italic;
+}
+
+td.items {
+	width:					180px;
+	padding-right:			15px;
+}
+
+
+.abstract {
+	font-size:				10pt;
+	font-style:				italic;
+	color:					#808080;
+	margin-left:			50px;
+	margin-right:			150px;
+}
+
+
+
+#news-box {
+    float:                  right;
+    margin-left:            40px;
+    margin-top:             15px;
+    background-color:       #BEDABE;
+   	border:                 1px dashed #70ad70;
+    padding:                10px;
+    padding-right:          20px;
+    padding-bottom:			0px;
+    width:                  300px;
+    font-size:				11pt;
+}
+#news-box h3 {
+	font-size:				13pt;
+	font-variant:			small-caps;
+	text-align:				left;
+	color:					#5D995F;
+	margin-top:             5px;
+	border-bottom: 			dashed 1px #5D995F;
+	text-align:             center;
+}
+#news-box li {
+	color:					#5D995F;
+}
+#news-box li.old-news{
+	display:				none;
+}
+img.affiliation {
+	width:                 80%;
+}
